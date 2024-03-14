@@ -13,7 +13,7 @@ Moomoc in the Mozilla, Freenode or OFTC network.
 L4Re Setup
 ----------
 
-This is better explained in [RL4Re's README](EADME.l4re), but in short you need
+This is better explained in [RL4Re's README](README.l4re), but in short you need
 (GNU) make, gcc, libgcc, bison and flex. Execute `make setup` and `make -j4`
 afterwards. If compilation aborts with "failed to build l4linux", you
 successfully build everything except l4linux which isn't required.
